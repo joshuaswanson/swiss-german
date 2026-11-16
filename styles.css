@@ -450,6 +450,7 @@ hr {
   font: inherit;
   color: inherit;
   cursor: pointer;
+  white-space: nowrap;
   border-bottom: 1px dotted var(--line-strong);
   transition:
     color 0.12s ease,
