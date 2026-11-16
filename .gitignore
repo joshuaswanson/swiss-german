@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+.idea/
+node_modules/
+*.log
+
+# Local private reference corpus, never committed
+_corpus/
